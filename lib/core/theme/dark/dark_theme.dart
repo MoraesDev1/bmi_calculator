@@ -1,4 +1,4 @@
-import 'package:bmi_calculator/theme/dark/dark_colors.dart';
+import 'package:bmi_calculator/core/theme/dark/dark_colors.dart';
 import 'package:flutter/material.dart';
 
 class DarkTheme {

@@ -1,7 +1,7 @@
-import 'package:bmi_calculator/enum/bmi_category.dart';
-import 'package:bmi_calculator/models/bmi_result.dart';
-import 'package:bmi_calculator/services/bmi_service.dart';
-import 'package:bmi_calculator/views/home/state/home_ui_state.dart';
+import 'package:bmi_calculator/core/enum/bmi_category.dart';
+import 'package:bmi_calculator/core/models/bmi_result.dart';
+import 'package:bmi_calculator/core/services/bmi_service.dart';
+import 'package:bmi_calculator/features/home/state/home_ui_state.dart';
 import 'package:flutter/cupertino.dart';
 
 class HomeController extends ValueNotifier<HomeUiState>{

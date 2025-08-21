@@ -1,5 +1,5 @@
-import 'package:bmi_calculator/enum/bmi_category.dart';
-import 'package:bmi_calculator/models/bmi_result.dart';
+import 'package:bmi_calculator/core/enum/bmi_category.dart';
+import 'package:bmi_calculator/core/models/bmi_result.dart';
 import 'package:flutter/material.dart';
 
 class HomeUiState {

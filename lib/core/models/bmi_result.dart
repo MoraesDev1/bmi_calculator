@@ -1,4 +1,4 @@
-import 'package:bmi_calculator/enum/bmi_category.dart';
+import 'package:bmi_calculator/core/enum/bmi_category.dart';
 
 class BmiResult {
   final double bmi;

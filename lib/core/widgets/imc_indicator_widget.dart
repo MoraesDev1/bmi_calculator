@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:bmi_calculator/enum/bmi_category.dart';
+import 'package:bmi_calculator/core/enum/bmi_category.dart';
 import 'package:flutter/material.dart';
 
 class BmiGaugeWidget extends StatelessWidget {

@@ -1,6 +1,6 @@
-import 'package:bmi_calculator/views/home/controller/home_controller.dart';
-import 'package:bmi_calculator/views/home/state/home_ui_state.dart';
-import 'package:bmi_calculator/widgets/imc_indicator_widget.dart';
+import 'package:bmi_calculator/core/widgets/imc_indicator_widget.dart';
+import 'package:bmi_calculator/features/home/controller/home_controller.dart';
+import 'package:bmi_calculator/features/home/state/home_ui_state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

@@ -1,6 +1,6 @@
-import 'package:bmi_calculator/views/home/controller/home_controller.dart';
-import 'package:bmi_calculator/views/home/view/mobile/mb_home_view.dart';
-import 'package:bmi_calculator/widgets/responsive_view_widget.dart';
+import 'package:bmi_calculator/core/widgets/responsive_view_widget.dart';
+import 'package:bmi_calculator/features/home/controller/home_controller.dart';
+import 'package:bmi_calculator/features/home/view/mobile/mb_home_view.dart';
 import 'package:flutter/material.dart';
 
 class HomeViewModule extends StatefulWidget {

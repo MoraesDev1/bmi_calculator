@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../enum/device_type.dart';
+import '../enum/device_type.dart';
 
 class ResponsiveViewWidget extends StatelessWidget {
   final Widget phone;
